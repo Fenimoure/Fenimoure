@@ -1,5 +1,6 @@
 # 👋 Let me introduce myself!
-![Avatar with background](https://user-images.githubusercontent.com/68148186/169506296-6c77eb5b-d376-47d6-bffb-94d096e05652.png)
+![Без назви](https://user-images.githubusercontent.com/68148186/176784102-c5adae7d-fdab-4ae7-a86a-02df16fa05d3.png)
+
 
 Hello, I am Fenimoure, a seventeen year old teenager and also a student of Taras Shevchenko National University of Kyiv.
 I am always eager on learning different stuff. Of course, it is much better if there is some person that can explain it to me in an interesting way (if I don't think "to hell, when will it end??" you know you are successful at this).
