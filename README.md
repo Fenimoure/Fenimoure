@@ -1,5 +1,6 @@
 # 👋 Let me introduce myself!
-![Без назви](https://user-images.githubusercontent.com/68148186/176784102-c5adae7d-fdab-4ae7-a86a-02df16fa05d3.png)
+![widebgwoname](https://user-images.githubusercontent.com/68148186/231090472-12866ddd-6993-4b79-8c9a-8c22207d00c8.png)
+
 
 
 Hello, I am Fenimoure, a seventeen year old teenager and also a student of Taras Shevchenko National University of Kyiv.
