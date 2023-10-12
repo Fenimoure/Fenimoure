@@ -9,12 +9,10 @@ I am always eager on learning different stuff. Of course, it is much better if t
 
 ## 🧐 Particularly, I am interested in:
 - Learning stuff about operating systems (features nobody knows about or how it works)
+- Web-development
 - Neural networks
 - Machine learning
 - Computer design (Like, making avatars in GIMP)
-
-## 🔍 What am I looking for?
-Well, I look for inspiration and for a mentor who could lead me to my dream of creating a system of artificial intelligence. Not just a neural network, but the fully functional, humanlike intellect.
 
 <!---
 Fenimoure/Fenimoure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
