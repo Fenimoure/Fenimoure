@@ -1,18 +1,16 @@
-# 👋 Let me introduce myself!
-![widebgwoname](https://user-images.githubusercontent.com/68148186/231090472-12866ddd-6993-4b79-8c9a-8c22207d00c8.png)
+![banner](https://github.com/Fenimoure/Fenimoure/assets/68148186/2b68b5fe-d9ea-4b05-92b8-512f85b1a36f)
 
 
+# Hi! I am Fenimoure.
 
-Hello, I am Fenimoure, a seventeen year old teenager and also a student of Taras Shevchenko National University of Kyiv.
-I am always eager on learning different stuff. Of course, it is much better if there is some person that can explain it to me in an interesting way (if I don't think "to hell, when will it end??" you know you are successful at this).
+Currently, student of Taras Shevchenko National University of Kyiv (Ukraine).
 
+Here's some info:
+- I like drawing stuff in Inkscape and GIMP
+- I also like web development and, especially, creating designs for applications
+- I speak English kinda fluently, though, I have not had an opportunity to put that to some sort of a serious test, so you only have my word to believe
 
-## 🧐 Particularly, I am interested in:
-- Learning stuff about operating systems (features nobody knows about or how it works)
-- Web-development
-- Neural networks
-- Machine learning
-- Computer design (Like, making avatars in GIMP)
+Anyway, thank you for visiting, have a great day!
 
 <!---
 Fenimoure/Fenimoure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
